@@ -1,9 +1,4 @@
-# Projet substitution de stage (concept-tagging) - L3 Informatique
 
-Réaliser par :
-
-  Brandon Yurgen Vouvou     : 21812350  
-  Derrick Wilfried Ogouwole : 21814023 
 ## Project setup
 ```
 npm install 
